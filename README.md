@@ -1,7 +1,7 @@
 <!-- Name/apresentation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9D36F7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Tatiane+Cacique+%F0%9F%91%8B;Full+Stack+Developer;" alt="Typing SVG" />
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/NOME_REPOSITORIO/main/avatarCacique.svg" width="100" />
+  <img src="https://raw.githubusercontent.com/TatianeCacique/TatianeCacique/main/avatarCacique.svg" width="100" />
 </h1>
 
 <div align="center">
@@ -57,6 +57,5 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TatianeCacique/TatianeCacique/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TatianeCacique/TatianeCacique/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TatianeCacique/TatianeCacique/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
