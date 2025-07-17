@@ -33,24 +33,11 @@
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"/></a>
 </p>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> 
-  Let's Connect
-</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/tatianecacique/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/tatianecacique" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://discord.gg/TatianeCacique#7973" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:caciquetatiane@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
 <div align="center">
